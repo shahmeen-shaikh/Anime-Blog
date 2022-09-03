@@ -1,0 +1,20 @@
+.main-bg{
+    background-color: #ab0000;
+}
+
+.main-title{
+    color: rgb(113, 2, 2);
+    font-size: 5vw;
+    text-align: center;
+    margin: 150px;
+}
+
+.open-para{
+    color:rgb(113, 2, 2);
+    text-align: center;
+    font-size: 3vw;
+}
+
+body{
+    background-color: blueviolet;
+}
